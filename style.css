@@ -6,8 +6,29 @@ h1{color:gry;font-family:verdana}
     width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align: center
+    align: center;
 }
-
-
+.texts {
+    display: inline-block;
+    padding: 30px;
+    align: center;
+}
+.container1 {
+display: inline-block;
+    margin-left: 20px;
+    align: center;
+}
+.container2 {
+display: inline-block;
+    margin-left: 60px;
+    align: center;
+}
+.container3 {
+    display: inline-block;
+    margin-left: 30px;
+    align: center;
+}
+.highlight {
+    background-color: yellow;
+}
 
